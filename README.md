@@ -1,1 +1,3 @@
 # towfick
+
+cd towfick
